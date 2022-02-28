@@ -107,3 +107,24 @@ ueditor for nodejs 参考[https://github.com/netpi/ueditor](https://github.com/n
 email：[ueditor@baidu.com](mailto://email:ueditor@baidu.com "发邮件给ueditor开发组")
 
 issue：[github issue](http://github.com/fex-team/ueditor/issues "ueditor 论坛")
+
+
+
+## 5 ueditor的编译教程（2022-02-28 by liz）
+
+### 5.1 安装node模块
+
+npm install
+
+### 5.2 全局安装grunt
+
+npm install grunt -g
+
+### 5.3 全局安装grunt
+
+grunt --encode=utf8 --server=php
+
+grunt --encode=gbk --server=java
+
+--encode=utf8，另外的取值是gbk。
+--server指的是，我们对接的上传脚本的服务器语言，默认是php，其它可能的取值有：jsp/net/asp。
