@@ -127,3 +127,7 @@ grunt --encode=gbk --server=java
 
 --encode=utf8，另外的取值是gbk。
 --server指的是，我们对接的上传脚本的服务器语言，默认是php，其它可能的取值有：jsp/net/asp。
+
+## 6 API文档（2022-02-28 by liz）
+
+[http://fex.baidu.com/ueditor/](http://ueditor.baidu.com "ueditor 官网")
