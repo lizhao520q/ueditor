@@ -109,8 +109,7 @@ email：[ueditor@baidu.com](mailto://email:ueditor@baidu.com "发邮件给uedito
 issue：[github issue](http://github.com/fex-team/ueditor/issues "ueditor 论坛")
 
 
-
-## 5 ueditor的编译教程（2022-02-28 by liz）
+## 4 ueditor的编译教程（2022-02-28 by liz）
 
 ### 5.1 安装node模块
 
