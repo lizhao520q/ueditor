@@ -130,4 +130,4 @@ grunt --encode=gbk --server=java
 
 ## 6 API文档（2022-02-28 by liz）
 
-[http://fex.baidu.com/ueditor/](http://ueditor.baidu.com "ueditor 官网")
+[http://fex.baidu.com/ueditor/](http://fex.baidu.com/ueditor/ "ueditor API")
