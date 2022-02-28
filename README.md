@@ -119,7 +119,7 @@ npm install
 
 npm install grunt -g
 
-### 5.3 全局安装grunt
+### 5.3 grunt编译代码
 
 grunt --encode=utf8 --server=php
 
